@@ -1,0 +1,10 @@
+## Hardware environment
+
+# All model simulations and optimization procedures were executed on a personal workstation with the following hardware specifications:
+
+**Component**                       **Specification**
+Processor (CPU)	                    Intel® Core™ i5-4300M CPU @ 2.60 GHz (dual-core, 4 threads)
+Installed Memory (RAM)	            8.0 GB DDR3
+Graphics Processing Unit (GPU)	    Integrated Intel® HD Graphics 4600 (113 MB dedicated memory)
+Storage	                            477 GB SSD (Toshiba THNSNSG256G8SSD)
+Operating System                    Windows 10 Pro, 64-bit (x64-based processor)
